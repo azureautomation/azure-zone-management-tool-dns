@@ -1,0 +1,20 @@
+{
+    "Author": "Jono Lewis",
+    "ContentSize": 12017,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-zone-management-tool-dns/master/AzRm-MngdnsZone.ps1",
+    "DownloadCount": 993,
+    "Id": "Azure-Zone-Management-Tool-69da28c3",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 259,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-7-28T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Updates v1.1 Adds VM Alignment function to allow the zone to be automatically aligned with existing Azure VMs.This script was create to ease management pains around Azure Zone DNS Management. The script also supports CSV Format imports for record creation and deletion. There is a",
+    "Title": "Azure Zone Management Tool - DNS",
+    "UpdatedDate": "2017-7-30T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-zone-management-tool-dns",
+    "UserTags": "Windows Azure PowerShell, Microsoft Azure Virtual Machines"
+}
